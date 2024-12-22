@@ -13,20 +13,6 @@ I'm a **Web3 developer** with a background in engineering, passionate about crea
 
 ---
 
-## 🏆 Achievements
-
-![Achievements](https://github-profile-trophy.vercel.app/?username=Odelf18&theme=onedark&row=1&no-frame=true)
-
----
-
-## 📊 My Activity
-
-![Private Repos Contribution](https://github-readme-stats.vercel.app/api?username=Odelf18&count_private=true&show_icons=true&theme=radical&token=GH_PAT)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Odelf18&layout=compact&theme=radical&count_private=true&token=GH_PAT)
-
----
-
 ## 🚀 Highlights
 
 ![Web3 Developer](https://img.shields.io/badge/Web3-Developer-blueviolet?style=for-the-badge&logo=ethereum)
