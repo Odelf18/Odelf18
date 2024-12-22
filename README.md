@@ -21,5 +21,6 @@ I'm a **Web3 developer** with a background in engineering, passionate about crea
 ## 🌐 Let's Connect
 - [🌍 Website](https://www.kapturbot.xyz/)
 - [🐦 Twitter](https://x.com/Odelf2)
-- 📧 **Email**: info@kapturbot.xyz
+- 📧 **Email**
+ info@kapturbot.xyz
 
