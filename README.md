@@ -1,17 +1,17 @@
 # 👋 Hi, I'm Odelf18!
 
-Welcome to my GitHub profile! Here's an overview of my work and stats. 🚀
+I'm a **Web3 developer** with a background in engineering, passionate about creating data-driven tools and bridging the gap between blockchain technology and real-world applications. My work focuses on delivering innovative solutions for on-chain analytics, automation, and scalable Web3 integrations.
 
 ---
 
+## 🛠️ Skills
 
-## 🔥 Featured Projects
+- **Blockchain & Web3**: On-chain data analysis, smart contract interactions, wallet analytics.
+- **Development**: Full-stack expertise in **React**, **Node.js**, and **Next.js**.
+- **Data Analysis**: Extracting insights from complex datasets and building automated workflows.
+- **Engineering Mindset**: Leveraging my technical background to design efficient, scalable solutions.
 
-### 🛠️ [Kaptur Bot](https://kapturbot.xyz/)
-An innovative tool for exploring and analyzing blockchain wallets. Features include:
-- 📊 Alpha wallet detection.
-- 🔍 Tracking smart contract interactions.
-- 🚀 Advanced analytics to uncover trends.
+---
 
 ### 🖥️ [shillcard-feature](https://github.com/Odelf18/shillcard-feature)
 - A feature-rich project to analyze wallets and generate visual insights.
