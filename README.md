@@ -13,12 +13,6 @@ I'm a **Web3 developer** with a background in engineering, passionate about crea
 
 ---
 
-### 🖥️ [shillcard-feature](https://github.com/Odelf18/shillcard-feature)
-- A feature-rich project to analyze wallets and generate visual insights.
-- 🎨 Designed with Next.js, Puppeteer, and APIs for social sharing.
-
----
-
 ## 🏆 Achievements
 ![Achievements](https://github-profile-trophy.vercel.app/?username=Odelf18&theme=onedark&row=1&no-frame=true)
 
