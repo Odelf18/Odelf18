@@ -4,13 +4,6 @@ Welcome to my GitHub profile! Here's an overview of my work and stats. 🚀
 
 ---
 
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Odelf18&layout=compact&theme=radical)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Odelf18&show_icons=true&theme=radical)
-
----
 
 ## 🔥 Featured Projects
 
@@ -32,6 +25,6 @@ An innovative tool for exploring and analyzing blockchain wallets. Features incl
 ---
 
 ## 🌐 Let's Connect
-- [🌍 Website](https://kapturbot.xyz/)
-- [🐦 Twitter](https://twitter.com/Odelf18)
-- 📧 **Email**: odelf18@domain.com
+- [🌍 Website](https://www.kapturbot.xyz/)
+- [🐦 Twitter](https://x.com/Odelf2)
+- 📧 **Email**: info@kapturbot.xyz
