@@ -21,9 +21,9 @@ I'm a **Web3 developer** with a background in engineering, passionate about crea
 
 ## 📊 My Activity
 
-![Private Repos Contribution](https://github-readme-stats.vercel.app/api?username=Odelf18&count_private=true&show_icons=true&theme=radical)
+![Private Repos Contribution](https://github-readme-stats.vercel.app/api?username=Odelf18&count_private=true&show_icons=true&theme=radical&token=GH_PAT)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Odelf18&layout=compact&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Odelf18&layout=compact&theme=radical&count_private=true&token=GH_PAT)
 
 ---
 
