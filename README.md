@@ -26,4 +26,4 @@ I'm a **Web3 developer** with a background in engineering, passionate about crea
 - 🌍 [Website](https://odelf-portfolio.vercel.app/)
 - 🐦 [Twitter](https://x.com/Odelf2)
 - 📧 **Email**: odelfdev@gmail.com
--  [Hire Me]([https://odelf-portfolio.vercel.app/](https://www.upwork.com/freelancers/~01613bbb495dcd40fd?mp_source=share))
+-  [Hire Me]((https://www.upwork.com/freelancers/~01613bbb495dcd40fd?mp_source=share))
