@@ -23,6 +23,6 @@ I'm a **Web3 developer** with a background in engineering, passionate about crea
 
 ## 🌐 Let's Connect
 
-- 🌍 [Website]([https://odelf-portfolio.vercel.app/])
+- 🌍 [Website](https://odelf-portfolio.vercel.app/)
 - 🐦 [Twitter](https://x.com/Odelf2)
 - 📧 **Email**: odelfdev@gmail.com
